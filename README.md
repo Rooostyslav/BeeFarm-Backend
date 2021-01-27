@@ -1,8 +1,7 @@
 # BeeFarm-Backend
 
-
-.Net Core
-Entity Framework Core 
+- .Net Core
+- Entity Framework Core 
 AutoMapper
 REST API
 
