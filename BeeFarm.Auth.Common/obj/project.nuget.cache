@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LRfkYgekUEuzV9ajib1R7yrIAxdygCKyIuuBWyvIVivHBjlKPRs9+JPDAWoxPDx+LvXtKPdcbIX43W9zYR5teQ==",
+  "success": true,
+  "projectFilePath": "D:\\ХНУРЕ\\3 Курс\\1 Семестр\\АтаРК\\Project\\BeeFarm\\Backend\\BeeFarm.Auth.Common\\BeeFarm.Auth.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diffd\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\diffd\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\diffd\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\diffd\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
